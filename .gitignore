@@ -1,0 +1,12 @@
+.vscode
+dist
+node_modules
+package-lock.json
+
+
+# temp files
+.DS_Store
+Thumbs.db
+Desktop.ini
+npm-debug.log
+lerna-debug.log
