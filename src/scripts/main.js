@@ -21,5 +21,5 @@ app.stage.addChild(anim);
 
 // Core Loop
 app.ticker.add(() => {
-	anim.rotation += 0.01;
+	anim.rotation += 0;
 });
